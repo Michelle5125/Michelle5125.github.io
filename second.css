@@ -1,0 +1,47 @@
+body {
+  background: url("https://images.alphacoders.com/246/246183.jpg");
+  background-size: cover;
+  color: white;
+}
+button {
+  margin: auto;
+  background-color: white;
+  border-width: 5px;
+  border-color: grey;
+  align-items: center;
+}
+article.first {
+  padding-left: 25%;
+  padding-right: 25%;
+  text-align: center;
+  text-shadow:  1px  1px 2px black,
+    1px -1px 2px black,
+   -1px  1px 2px black,
+   -1px -1px 2px black;
+}
+article.second {
+
+  padding-top: 0.5%;
+  text-align: center;
+}
+article.third {
+  text-align: center;
+}
+article.sixth {
+  padding-left: 25%;
+  padding-right: 25%;
+  text-shadow:  1px  1px 2px black,
+    1px -1px 2px black,
+   -1px  1px 2px black,
+   -1px -1px 2px black;
+}
+h1 {
+  text-align: center;
+  font-family: papyrus;
+}
+p {
+  text-align: center;
+}
+table {
+text-align: center;
+}

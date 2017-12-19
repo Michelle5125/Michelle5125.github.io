@@ -1,0 +1,32 @@
+header {
+  align-items: center;
+  color: white;
+  font-family: papyrus;
+  text-shadow:  1px  1px 2px black,
+    1px -1px 2px black,
+   -1px  1px 2px black,
+   -1px -1px 2px black;
+}
+
+body {
+  background: url("https://img00.deviantart.net/6db8/i/2013/337/b/f/uprising_of_the_mockingjay_by_sikundoto-d6wm4rz.jpg");
+  background-size: cover;
+
+}
+article {
+  padding-left: 50%;
+  color: white;
+  font-family: arial black;
+  align-items: center;
+  padding-top: 0.5%;
+}
+h1 {
+  text-align: center;
+}
+
+button {
+  margin: auto;
+  background-color: white;
+  border-width: 5px;
+  border-color: grey;
+}

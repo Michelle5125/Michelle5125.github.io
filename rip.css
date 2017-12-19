@@ -1,0 +1,30 @@
+body {
+  background: url("https://wallpapercave.com/wp/Fb3qPCI.png");
+  background-size: cover;
+}
+h1 {
+color: white;
+text-align: center;
+font-family: papyrus;
+}
+
+article.fourth {
+  color: white;
+  padding-left: 25%;
+  padding-right: 25%;
+  text-align: center;
+  text-shadow:  1px  1px 2px black,
+    1px -1px 2px black,
+   -1px  1px 2px black,
+   -1px -1px 2px black;
+}
+article.fifth {
+  text-align: center;
+  padding-top: 0.5%;
+}
+button {
+  margin: auto;
+  background-color: white;
+  border-width: 5px;
+  border-color: grey;
+}
