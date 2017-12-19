@@ -29,9 +29,3 @@ button {
   border-width: 5px;
   border-color: grey;
 }
-@media screen and (max-width: 500px) {  
-  body 
-  {    background-color: black;
-  background-size: cover;
-  }
-}
