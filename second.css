@@ -19,6 +19,7 @@ article.first {
    -1px  1px 2px black,
    -1px -1px 2px black;
 }
+div {  text-align: center;}ul {  display: inline-block;  text-align: left;}
 article.second {
 
   padding-top: 0.5%;
