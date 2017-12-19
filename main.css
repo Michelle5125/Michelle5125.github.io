@@ -29,3 +29,4 @@ button {
   border-width: 5px;
   border-color: grey;
 }
+@media (max-width: 500px) {  body {    background: url("https://i.pinimg.com/736x/15/dc/25/15dc250c42578bdc5486948f986e4d91--iphone-wallpaper-phone-backgrounds.jpg")  }}
