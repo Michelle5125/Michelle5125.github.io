@@ -14,10 +14,9 @@ body {
 
 }
 article {
-  padding-left: 50%;
+  text-align: center;
   color: white;
   font-family: arial black;
-  align-items: center;
   padding-top: 0.5%;
 }
 h1 {
